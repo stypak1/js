@@ -1,6 +1,7 @@
 # JS Drag-n-drop game
 
-Game based on js-animation and mouse eventsd
+Game based on js-animation and mouse events
+
 **[Start Here](http://study.uitschool.com/fe-17-11/maks/)**
 
 ## Author
